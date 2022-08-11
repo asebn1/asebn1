@@ -30,7 +30,8 @@ I like to record and share what I've learned. </br>
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-1YB12F?style=for-the-badge&logo=JPA&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=Flyway&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=Flyway&logoColor=white">
+  <img src="https://img.shields.io/badge/Restdocs-6DB33F?style=for-the-badge&logo=Restdocs&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img alt="Docker" src="https://img.shields.io/badge/h2-CC0200?style=for-the-badge&logo=h2&logoColor=white" />
