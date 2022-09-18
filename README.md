@@ -17,6 +17,14 @@ I like to record and share what I've learned. </br>
 <!--END_SECTION:waka-->
 </br>
 
+<h2> 🚀 Tech BLOG</h2>
+
+<div align="center"> 
+  <a href="https://jaehhh.tistory.com/"><img src="https://user-images.githubusercontent.com/57438644/190887965-c93dd610-d605-4134-8c50-d16e6ce686fe.png" width="204" height="64"/></a>&nbsp
+</div>  
+
+</br>
+
 <h2> 🚀Tech Stack</h2>
 <div align="center"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
