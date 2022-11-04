@@ -4,8 +4,11 @@ I'm studying backend development. </br>
 I like to record and share what I've learned. </br>
 </p>
 
+## 🔎 **Portfolio**
+- [LINK](https://indecisive-smash-5a2.notion.site/099cc58b884e4920b24945ecc4e3c4dd)
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="310" height="220" />
-  
+
 <!--START_SECTION:waka-->
 ## 📝 **Education**
 - 선린인터넷고등학교 소프트웨어과 (2012.03 ~ 2015.02)
@@ -17,7 +20,7 @@ I like to record and share what I've learned. </br>
 <!--END_SECTION:waka-->
 </br>
 
-<h2> 🚀 Tech BLOG</h2>
+<h2> 📖 Tech BLOG</h2>
 
 <div align="center"> 
   <a href="https://jaehhh.tistory.com/"><img src="https://user-images.githubusercontent.com/57438644/190887965-c93dd610-d605-4134-8c50-d16e6ce686fe.png" width="204" height="64"/></a>&nbsp
