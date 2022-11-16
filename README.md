@@ -5,7 +5,7 @@ I like to record and share what I've learned. </br>
 </p>
 
 ## 🔎 **Portfolio**
-- [LINK](https://indecisive-smash-5a2.notion.site/099cc58b884e4920b24945ecc4e3c4dd)
+- [포트폴리오 LINK](https://indecisive-smash-5a2.notion.site/099cc58b884e4920b24945ecc4e3c4dd)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="310" height="220" />
 
