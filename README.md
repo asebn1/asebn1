@@ -16,6 +16,7 @@ I like to record and share what I've learned. </br>
 - 육군 8사단 정보보호병 (2017.03 ~ 2018.12)
 - BoB (Best of the Best) 9기 (2020.07 ~ 2021.03)
 - 우아한테크코스 4기 백엔드 (2022.02 ~ 2022.11)
+- 카카오 콘텐츠개발파트 (2022.12 ~ )
 
 <!--END_SECTION:waka-->
 </br>
