@@ -8,11 +8,6 @@
 ## 📝 **Work Experience**
 - 카카오 콘텐츠개발파트 (2022.12 ~ )
 
-<!--END_SECTION:waka-->
-</br>  
-
-</br>
-
 <h2> 🚀Tech Stack</h2>
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
