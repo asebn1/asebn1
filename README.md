@@ -1,3 +1,10 @@
+
+[![KongJaeHo](https://img.shields.io/badge/KongJaeHo-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%9E%AC%ED%98%B8-%EA%B3%B5-34333b295/)
+[![Blog](https://img.shields.io/badge/Blog-FF5733?style=for-the-badge&logo=Tistory&logoColor=white)](https://jaehhh.tistory.com/)
+
+
+
+
 <!--START_SECTION:waka-->
 ## 📝 **Education**
 - 선린인터넷고등학교 소프트웨어과 (2012.03 ~ 2015.02)
@@ -6,7 +13,8 @@
 - 우아한테크코스 4기 백엔드 (2022.02 ~ 2022.11)
 
 ## 📝 **Work Experience**
-- 카카오 (2022.12 ~ )
+- 카카오 콘텐츠개발파트 (2022.12 ~ 2023.12)
+- 카카오 오픈채팅서버개발 (2024.01 ~ )
 
 <h2> 🚀Tech Stack</h2>
 <div>
