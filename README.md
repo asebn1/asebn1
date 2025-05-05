@@ -1,5 +1,5 @@
 
-[![LinkedIn](https://img.shields.io/badge/KongJaeHo-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%9E%AC%ED%98%B8-%EA%B3%B5-34333b295/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%9E%AC%ED%98%B8-%EA%B3%B5-34333b295/)
 [![Blog](https://img.shields.io/badge/Blog-FF5733?style=for-the-badge&logo=Tistory&logoColor=white)](https://jaehhh.tistory.com/)
 
 
